@@ -1,0 +1,6 @@
+near_distance_m: 6.0
+caution_distance_m: 15.0
+pedestrian_priority: true
+cyclist_priority: true
+intersection_flow: true
+trajectory_heatmap: true
