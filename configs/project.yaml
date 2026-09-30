@@ -1,0 +1,10 @@
+project: DriveVision-YOLO
+seed: 11711
+device: auto
+output_dir: runs
+modules:
+  detection: true
+  tracking: true
+  lanes: true
+  sign_depth_fusion: true
+  analytics: true
