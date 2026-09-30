@@ -1,0 +1,7 @@
+high_conf: 0.50
+low_conf: 0.10
+match_iou: 0.30
+max_age: 30
+min_hits: 3
+fps: 30.0
+class_aware: true
