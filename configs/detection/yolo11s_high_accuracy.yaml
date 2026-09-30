@@ -1,0 +1,8 @@
+weights: yolo11s.pt
+confidence: 0.20
+iou: 0.50
+imgsz: 960
+device: auto
+half: true
+max_det: 500
+tta: false
