@@ -1,0 +1,7 @@
+blur_kernel: 5
+canny_low: 50
+canny_high: 150
+history: 8
+lane_width_m: 3.7
+ym_per_pix: 0.0416667
+xm_per_pix: 0.0052857
