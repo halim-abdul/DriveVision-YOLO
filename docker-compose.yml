@@ -1,0 +1,9 @@
+services:
+  drivevision:
+    build: .
+    volumes:
+      - ./data:/app/data
+      - ./runs:/app/runs
+    environment:
+      - PYTHONUNBUFFERED=1
+    command: ["--help"]
