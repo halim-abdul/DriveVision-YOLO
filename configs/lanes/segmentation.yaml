@@ -1,0 +1,6 @@
+model: null
+input_size: [640, 384]
+threshold: 0.50
+temporal_smoothing: true
+history: 6
+classes: [background, lane, drivable]
