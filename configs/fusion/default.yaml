@@ -1,0 +1,6 @@
+depth_model: depth-anything-v2-small
+sign_confidence: 0.40
+depth_scale: 1.0
+min_depth_m: 0.1
+max_depth_m: 120.0
+uncertainty: mad
