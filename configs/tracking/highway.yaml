@@ -1,0 +1,8 @@
+high_conf: 0.45
+low_conf: 0.08
+match_iou: 0.25
+max_age: 45
+min_hits: 2
+fps: 30.0
+speed_estimation: true
+ttc_alerts: true
